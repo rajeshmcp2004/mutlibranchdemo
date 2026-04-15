@@ -10,3 +10,7 @@ resource "azurerm_resource_group" "example_nr_rg14" {
   name     = "example-nr-rg-14"
   location = "eastus"
 }
+resource "azurerm_resource_group" "example_nr_rg15" {
+  name     = "example-nr-rg-15"
+  location = "eastus"
+}
